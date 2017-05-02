@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am Upendra exploring the new world known as 'Swift'. I love learning and writing about the new things. Swift is new obsession and looks good to discuss the same.
 
-You can find the source code for the Jekyll new theme at:
+You can find source code of the sample used in this blog at:
 {% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+[Example](https://github.com/uptscs/swift-examples)
 
-You can find the source code for Jekyll at
+You can find the source code for sharehiring.com at
 {% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+[Swift](https://github.com/uptscs/blog)
